@@ -1,3 +1,3 @@
 # GitLearningRepo
-This repo is a part og Git Learnng tutorial by anuj kumar sharma
-We promote open source contribution
+This repo is a part of Git Learnng tutorial by Anuj Kumar Sharma.<br>
+We promote open source contribution.
